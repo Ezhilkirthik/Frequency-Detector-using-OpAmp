@@ -40,7 +40,7 @@ To create a circuit capable of detecting the frequency of a sinusoidal signal an
 | `README.md` | Project documentation |
 | `Report on Frequency Detector.pdf` | Detailed explanation of theory, design, calculations, and results |
 | `design blocks.dbl` | Block diagram or design structure file (assumed for visual layout or planning) |
-| `*.asc` / LTspice files *(not shown)* | Simulation circuits and results (assumed to be used in your project) |
+| `*.asc` / LTspice files | Simulation circuits and results |
 
 ---
 
